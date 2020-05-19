@@ -10,7 +10,7 @@ public class User {
 
     public User(String firstname, String lastname, String pin , Bank theBank) {
         // set user's name
-        this.firstname = firstname;
+    //    this.firstname = firstname;
         this.lastname = lastname;
 
         try {
